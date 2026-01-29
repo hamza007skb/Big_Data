@@ -1,0 +1,6 @@
+USA	571338
+UK	378395
+Germany	316980
+Canada	271805
+1	0
+Australia	271913
